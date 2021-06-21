@@ -8,8 +8,6 @@ Juego basado en piedra, papel o tijera, para navegadores compatibles con Javascr
 
 ![Alt text](/screenshots/sc3.PNG?raw=true "Screenshot3")
 
-![Alt text](/screenshots/sc4.PNG?raw=true "Screenshot4")
-
 # Instrucciones
 1. Abrir /ppt/ppt.html con un navegador que soporte Javascript.
 2. Presionar o dar click a "Nuevo Juego".
